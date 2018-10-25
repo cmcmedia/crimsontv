@@ -1,7 +1,1 @@
-$ dig www.crimsontv.tk +nostats +nocomments
-
-; <<>> DiG 9.8.3-P1 <<>> www.crimsontv.tk +nostats +nocomments
-;; global options: +cmd
-;www.crimsontv.tk.		IN	A
-www.crimsontv.tk.	3413	IN	CNAME	crimsontv.tk.
-crimsontv.tk.		3413	IN	A	192.30.252.154
+crimsontv.tk
