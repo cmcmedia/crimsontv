@@ -18,6 +18,10 @@ main {
   align-items: center;
 }
 
+a {
+   <style>A {text-decoration: none;} </style>
+}
+
 h2 {
   font-family: Poppins;
   font-size: 18px;
@@ -64,7 +68,6 @@ img {
   position: relative;
   bottom: 5px;
   text-align: center;
-  <style>A {text-decoration: none;}</style>
 }
 
 .description {
